@@ -1,0 +1,7 @@
+.DS_Store
+/dataset/*
+/11 custom dataset/*
+/12 Imbalanced/*
+/dataset/*
+/runs/* 
+
